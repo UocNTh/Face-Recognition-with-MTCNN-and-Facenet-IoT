@@ -1,0 +1,10 @@
+# Ignore environment files
+env/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore processed and raw directories inside FaceData
+FaceRecogition/Dataset/FaceData/processed/*
+FaceRecogition/Dataset/FaceData/raw/*
+
